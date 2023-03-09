@@ -1,0 +1,22 @@
+:root{
+    --verde: #28A745;
+    --gris: #707070;
+}
+
+.relleno{
+    /* color : var(--verde); */
+    background-color: var(--verde);
+}
+
+p, .gris{
+    color : var(--gris);
+}
+
+.cupon{
+    width: 86px;
+}
+
+.tamanio{
+    width: 50%;
+    
+}
